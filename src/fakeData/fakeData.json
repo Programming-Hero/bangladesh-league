@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Soumya Sarkar",
+        "salary": 300,
+        "image": "https://i.ibb.co/2n7BqWT/summo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "salary": 500,
+        "image": "https://i.ibb.co/RCS3dVk/tamim.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Taskin Ahmed",
+        "salary": 400,
+        "image": "https://i.ibb.co/jW9tmsf/taskin.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Glenn Maxwell",
+        "salary": 900,
+        "image": "https://i.ibb.co/f06rY8X/maxwell.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Joe Root",
+        "salary": 800,
+        "image": "https://i.ibb.co/KzxhFST/root.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mustafizur Rahman",
+        "salary": 800,
+        "image": "https://i.ibb.co/n06W3cP/mustafiz.jpg"
+    },
+    {
+        "id": 7,
+        "name": "James Anderson",
+        "salary": 700,
+        "image": "https://i.ibb.co/WgW436s/andra.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Moeen Ali",
+        "salary": 1200,
+        "image": "https://i.ibb.co/C2L0JBd/aki.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Masrafi Bin Mortoza",
+        "salary": 1150,
+        "image": "https://i.ibb.co/wwbNZWV/masrafi.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mohammad Ashraful",
+        "salary": 1200,
+        "image": "https://i.ibb.co/2nd0fMR/asraful.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tim Southee",
+        "salary": 600,
+        "image": " https://i.ibb.co/1sxLM77/tim.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Sarfraz Ahmed",
+        "salary": 700,
+        "image": "https://i.ibb.co/xXR69t7/ahamed.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Hasan Ali",
+        "salary": 1000,
+        "image": "https://i.ibb.co/PxqDrGK/hsan.jpg"
+    }
+]

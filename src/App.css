@@ -1,0 +1,9 @@
+.App {
+  background: url(./fakeData/backround.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.App h1{
+  text-align: center;
+  color: white;
+}
